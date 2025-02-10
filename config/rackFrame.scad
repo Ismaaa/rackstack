@@ -23,6 +23,16 @@ _profileConfigs = [
       ["rackFrameScrewType", "m3"],
       ["baseRoundness", 5],
     ]],
+    ["custom", [
+        ["maxUnitWidth", 280],
+        ["maxUnitDepth", 250],
+        ["numRailScrews", 16],
+        ["screwDiff", 10],
+        ["mainRailScrewType", "m4"],
+        ["mainRailSideMountScrewType", "m4"],
+        ["rackFrameScrewType", "m3"],
+        ["baseRoundness", 5],
+    ]],
     ["nano", [
       ["maxUnitWidth", 105],
       ["maxUnitDepth", 105],
